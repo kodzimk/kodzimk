@@ -8,6 +8,6 @@ I love low level coding and playing and building games
 
 * 🌍  I'm based in Almaty
 * ✉️  You can contact me at [proggamedev@gmail.com](mailto:proggamedev@gmail.com)
-* 🧠  I'm learning Directx,3D,Game engines
+* 🧠  I'm learning Directx,3D,Game engines,OS
 * 🤝  I'm open to collaborating on other projects
 * ⚡  Anything else
